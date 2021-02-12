@@ -1,0 +1,8 @@
+Arduino/Base_Station/password.h
+Arduino/zModule Tests/*
+
+Webserver/database.php
+Webserver/login/config.php
+Webserver/login/.DS_Store
+
+*.DS_Store
